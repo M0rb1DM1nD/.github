@@ -1,1 +1,2 @@
-# .github
+#  0xtudio
+zero X tudio
